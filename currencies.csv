@@ -1,5 +1,5 @@
-id,code
-592dce89-2f3a-48e1-aede-1e1ead2f1a26,KES
-8e9a1983-a28e-4cfe-8a3c-205b64ed9e12,EUR
-585a41ef-c466-4be1-8342-d57ae7291a64,USD
-e6e15c63-14f6-41f0-b301-e64ad6cced72,GBP
+id,name,code
+592dce89-2f3a-48e1-aede-1e1ead2f1a26,Kenyan Shilling,KES
+8e9a1983-a28e-4cfe-8a3c-205b64ed9e12,Euro,EUR
+585a41ef-c466-4be1-8342-d57ae7291a64,US Dollar,USD
+e6e15c63-14f6-41f0-b301-e64ad6cced72,Pound Sterling,GBP
