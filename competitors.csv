@@ -1,0 +1,155 @@
+id,name,min_headcount,max_headcount,address,phone,industry,country
+8b7d432a-cd43-4a2b-ba17-134a6f26c83b,Checkout.com,1900,10000,"Wenlock Works, Shepherdess Walk, London, N1 7BQ, United Kingdom.",+44 20 7323 3888,Fintech,United Kingdom
+a5a51cc1-eeb4-41bf-bf05-627e55dccce4,RevenueGrid,101,250,"650 Castro St suite 120 / 385, United States",+1 866-684-9276,Revtech,United Kingdom
+29c8066c-f9a4-49b5-9767-c0ce13c3a2ff,ChurnZero,201,500,"717 D Street NW 2nd Floor Washington, DC 20004",+1 888-258-4999,Revtech,United Kingdom
+c283cd13-7582-4f4b-971f-e715c6f0ba3c,Clari,501,1000,"1154 Sonora Court Sunnyvale, CA 94086 United States",+650 265-2111,Revtech,United Kingdom
+a5e058fe-8e6a-4c69-9148-c0953e445dd7,Kluster,11,50,"1 Poultry, London, England EC2R 8, GB",+0203 790 7722,Revtech,United Kingdom
+7a03ee49-6fbd-477d-b033-d4144d893bcb,Gong,1001,5000,"Kemp House, 160 City Road, London, England, EC1V 2NX     201 Spear St. 13th Floor, San Francisco, CA 94105",+650 276-3068,Revtech,United Kingdom
+98e65b01-ce8b-4160-b2a5-80e8ba949deb,Lattice Engines,101,250,"1820 Gateway Drive Suite 200, San Mateo, California 94404, US",+1 877 460-0010,Revtech,United Kingdom
+52616735-d80b-4329-9868-6f2f028edf3b,QuotaPath,51,100,"1608 Walnut St Fl 12, United States",+484 442-0420,Revtech,United Kingdom
+eed72071-a580-452d-a974-58fa4a146473,Duffel,51,200,"3 Finsbury Avenue, 6th Floor, London, EC2M 2PA, GB",+44 2081035995,Traveltech,United Kingdom
+3370ad68-ce6f-49eb-910d-eb4168ee5411,Xeneta,201,500,"Biskop Gunnerus gate 14A, Oslo, NO 0185, Norway",+47 21 64 24 10,Traveltech,Norway
+9e30669c-9a90-4aa2-a809-381d00ab2358,FreightWaves,51,200,"405 Cherry St, Chattanooga, Tennessee 37402, US",+423 205-3001,Traveltech,Norway
+e483db78-c9b8-4b50-b044-495e42d53149,portcast,11,50,"Vanguard Building 1 Kallang Jct L 6, Singapore, Central Singapore, 339263, Singapore",+65 93377432,Traveltech,Norway
+825a6b78-2bfa-4091-8360-44aeb7e8f33e,Cargofive,11,50,"Avenida António Augusto de Aguiar, Lisboa, PT",-,Traveltech,Norway
+be2fd66b-f018-407a-ad47-6f98566db798,Freightcrate,11,50,"Rehem Mansion No 2, 1st Floor , 44 S B Road, Colaba, Mumbai, Maharashtra 400001, IN",+91 22 2288 1555,Traveltech,Norway
+356c4672-cb33-4099-9005-6d6563980b99,Kasssh,1,10,"1 Elmfield Park, Bromley, England, BR1 1LU.",44 20 8058 4230,Fintech,United Kingdom
+291206bf-b561-47c3-8a69-333a054ad23e,Revolut,5001,10000,"7 Westferry Circus, Canary Wharf, London, England, E14 4HD .",+442033228352,Fintech,United Kingdom
+e504c86f-b6f4-48b9-9028-223d923efba1,Monzo,1001,5000,"Broadwalk House, 5 Appold St, London EC2A 2AG",+0800 802 1281 or +44 203 872 0620,Fintech,United Kingdom
+bfea923e-b03a-495e-852c-e4f6a96bfc12,Starling Bank,1001,5000,"5th Floor, Fruit & Wool Exchange, Duval Square, London E1 6PW, UK",+44 20 7930 4450,Fintech,United Kingdom
+8ebf8451-be84-4523-b752-6b197e575b0c,Zopa,501,1000,"Floor Cottons Centre, 47-49 Tooley Street, London, England, SE1 2QG",+44 207 291 8331,Fintech,United Kingdom
+55d12015-a76b-4bb1-b05c-3b20b3caa6d7,Zepz,1001,5000,"2nd Floor · 62 Buckingham Gate · London SW1E 6AJ · England, United Kingdom. or 51 Eastcheap, London, EC3M 1DT",,Fintech,United Kingdom
+63ab85fd-dada-4578-8d89-19f2b61b9065,SumUp,1001,5000,"16-20 Shorts Gardens, London, England, WC2H 9US",1-888-250-2164,Fintech,United Kingdom
+01767b97-8d9d-474f-9a46-8ca2215ff1f2,Thought Machine,501,1000,"5 New Street Square, London, United Kingdom, EC4A 3TW",(212) 355-1430,Fintech,United Kingdom
+788c5e8a-8edb-46ac-beec-5f8307528148,GoCardless,501,1000,"Sutton Yard, 65 Goswell Road, London, England, EC1V 7EN",+44 20 8338 9540.,Fintech,United Kingdom
+5825fba1-f5ef-44f7-9153-7f54c684b0a0,Teya,1001,5000,"Third Floor, 20 Old Bailey, London, United Kingdom, EC4M 7AN",+44 1732 440999.,Fintech,United Kingdom
+b0b28605-f191-4be4-8e39-d67619957d52,Blockchain.com,501,1000,"Minshull House, 67 Wellington Road North, Stockport, Cheshire, United Kingdom, SK4 2LP",+1-888-552-1019,Fintech,United Kingdom
+3a76c50e-d98d-4219-8e3b-a9dc4cb8e97e,Allica Bank,201,500,"4th Floor 164 Bishopsgate, London, England, EC2M 4LX",0330 094 6666,Fintech,United Kingdom
+1a93e8a0-4a3a-41c8-aa08-f7860ccaa5fa,ClearBank,201,500,"Borough Yards, 13 Dirty Lane, London, England, SE1 9PA",+44 (0) 203 111 2370,Fintech,United Kingdom
+0cc7898e-9a6e-489b-b45c-d8326f134c53,Zilch,201,500,"123 Buckingham Palace Road, Victoria, England SW1W 9SL, GB",+44 (0)20 3405 9775,Fintech,United Kingdom
+03208c22-eddf-4ae7-834f-ebfa4d18514e,TrueLayer,201,500,"Part Ground Floor (East), Floors 6 And 7 The Gilbert, 40 Finsbury Square, London, United Kingdom, EC2A 1PX",+44 8001116768,Fintech,United Kingdom
+7b14a4ee-ef0a-4174-91ab-42248171b3dd,PrimaryBid,51,200,"5th Floor, Office B3 80 Victoria Street, Cardinal Place, London, United Kingdom, SW1E 5JL",020 3026 4750,Fintech,United Kingdom
+1d43e957-fa4b-45f1-ad3f-20dbc02fa7d2,Copper,201,500,"17 Broadwick Street, London, England, W1F 0DE",866.656.1540,Fintech,United Kingdom
+ccdbf8b1-aa4b-411c-bee0-f6bcbe37de09,Paddle,101,250,"London, England",(844) 723-5163,Fintech,United Kingdom
+99782466-754b-4177-b834-095623dbf1b0,Zego,201,500,"2 Agnes Court 5 Floral Drive, London Colney, St. Albans, United Kingdom, AL2 1HB",0808 196 5330,Fintech,United Kingdom
+e429c6fd-6c81-48d7-ada0-5f9656065a79,10x Banking,501,1000,"Suite A, 5th Floor, 33 Holborn, London EC1N 2HT, United Kingdom.",0146101,Fintech,United Kingdom
+7ab50e5c-dab6-4604-b6d2-7f06b35e8fad,Lenable,51,200,"69-77 Paul Street, Telephone House, London, Greater London EC2A 4NW, GB",020 3322 1948,Fintech,United Kingdom
+256b1c7f-ffa8-41cb-be0e-7c7622129e62,Updraft,11,50,"5 Merchant Square, london, london w2 1AY, GB",01133207310,Fintech,United Kingdom
+6a73ee8b-2977-4f60-bc70-048430a03a97,Wagestream,101,250,"35 Gresse Street, London, W1T 1QY",0800 023 4567,Fintech,United Kingdom
+00c7abc7-259f-46cb-8b80-90e95d274127,Soldo,101,250,"119 Marylebone Road, C/O Wework, London, England, NW1 5PU",+44 2080995393,Fintech,United Kingdom
+e63919b4-edfe-4aa5-bf59-0bedccdee4b8,Monese,201,500,"Eagle House, 163 City Road, London EC1V 1NR.",08720992,Fintech,United Kingdom
+65814fa7-d93f-4f58-b086-9d98c30b2524,Tide,1001,5000,"86-90 Paul Street, London, EC2A 4NE",1-513-983-1100,Fintech,United Kingdom
+d362ce47-81c1-4ebe-a84f-e48aba487487,Prodigy Finance,201,500,"Hardy House 16-18 Beak Street London, W1F 9RD United Kingdom.",(+44) 20 3900 3535,Fintech,United Kingdom
+833cb34b-91c3-450c-879e-8e63580e3c3c,Form3,101,250,"16 Great Queen Street, Covent Garden, London, United Kingdom, WC2B 5AH",+442038616489,Fintech,United Kingdom
+77008cf8-479b-48ef-a329-59e7e61dcca8,Curve,251,500,"1-10 Praed Mews, London, England W2 1QY, GB",+44 20 7964 0500,Fintech,United Kingdom
+1ecc15a6-13a9-4d2e-a3fa-2b91fe13aa5c,Sonovate,201,500,"4th Floor Golate House, 101 St. Mary Street, Cardiff, Wales, CF10 1DX",020 4538 7759,Fintech,United Kingdom
+cd275fa0-19b3-4526-8edf-3c27552030d6,ClearScore,201,500,"Vox Studios, VG 203. 1-45 Durham Street. London, SE11 5JH, UK",0207 582 8212,Fintech,United Kingdom
+669e3c15-0d5f-4c75-aa9a-351d57a40255,Fresha,251,500,"71-75 Shelton Street, London, Greater London, United Kingdom, WC2H 9JQ",01392 447701.,Fintech,United Kingdom
+77ea71ff-56a8-428b-89c6-0ddf9d9488a7,Modulr,251,500,"Scale Space, 58 Wood Lane, London, United Kingdom, W12 7RZ",+44 (0) 303 313 0060,Fintech,United Kingdom
+27404bb1-cd4d-4748-b76f-bf7937731c37,Moneyfarm,101,250,"90-92 Pentonville Road, London, Greater London N1 9HS, GB",44 20 3745 6990,Fintech,United Kingdom
+68411a8f-bd5a-4bd9-8f2e-a833ffcf1810,Dext,251,500,"99 Clifton St, United Kingdom",+44 (0)203 699 5005,Fintech,United Kingdom
+3124379c-6d62-4eff-931c-e2c5a167c370,Storfund,11,50,"14 Old Queen Street, London, London SW1H 9HP, GB",+44 20 7193 1298,Fintech,United Kingdom
+19aef84e-1fa4-447d-96b9-be6ba7601b22,PaySend,101,250,"20 Garrick Street, London, England WC2E 9BT, GB",+1 844-938-8840,Fintech,United Kingdom
+919ddc0b-ae7d-404a-91fa-5ad41b495c72,The Bank of London,201,500,"100 Bishopsgate, City of London, EC2N 4AG, United Kingdom",+1 28 44 788,Fintech,United Kingdom
+77039ca7-b39b-4be8-b9f1-c20f25112169,Codat,201,500,"Johnson Gardens Courtyard Building, 6-7 St Cross Street, London, London EC1N 8UA, GB",+1 04 80 375,Fintech,United Kingdom
+3f3b7415-9b8c-4c24-bc09-cf905b5a4a57,Featurespace,251,500,"140 Cambridge Science Park Road, Cambridge, England CB4 0GF, GB",+44 (0) 1223 345940,Fintech,United Kingdom
+363336b6-134a-4e32-b006-b63d8e9c2a38,Freetrade,251,500,"Freetrade Limited Level 2, The Truman Brewery, 91 Brick Lane, London, England, E1 6QL",0800 144 8848,Fintech,United Kingdom
+ea964da2-e478-4d87-9339-21f91629bd1a,Cleo,101,250,"56 Shoreditch High St, Unit 2.10, Tea Building, London, England E1 6JJ, GB",+1-800-233-2536,Fintech,United Kingdom
+a7d9922e-91d4-4ab0-8541-e74677c26620,Travelport,1001,5000,"Axis One, Axis Park, 10 Hurricane Way, Langley, Berkshire SL3 8AG, GB",+44 01753 288000,Traveltech,United Kingdom
+53a56255-5c66-4a40-90f8-a1b0b7016147,Depop,1001,5000,"London, England, United Kingdom",,Retailtech,United Kingdom
+807ba447-f7de-4ba4-81c2-b0bf652ceab0,Kalibrate,251,500,"Manchester, Manchester, United Kingdom",+44 161 609 4000,Retailtech,United Kingdom
+711aaefa-2d11-46a9-b585-78d829a7a401,Mercaux,51,100,"London, England, United Kingdom",+44 (0)20 3086 8938,Retailtech,United Kingdom
+e12ad59b-6e53-4aed-a7ca-1676d079b9d8,OTA Insight,101,250,"10 York Road, London, England SE1 7ND, GB",+44 (0)203 0952727,Traveltech,United Kingdom
+ffafb3b3-20d1-4da9-8163-3c921fb5b886,Transreport,51,100,"Transreport Limited, 3 Shortlands, London, England, W6 8DA",519-826-4888,Traveltech,United Kingdom
+846bd20c-e6c8-4717-bc5a-35237286c634,Mews,501,1000,"Harling House Third Floor, 47-51 Great Suffolk Street, London, England, SE1 0BS",+44 330 808 1807,Traveltech,United Kingdom
+adf4474e-f5a5-49a5-a7e8-b412f6f917cc,Shackle,11,50,"92 Albert Embankment, Tintagel House, London, England SE1 7TY, GB",01302 756 777,Traveltech,United Kingdom
+f3846131-ab0e-49d3-b5d9-036cfb33dfa9,Branchspace,51,200,"119 Marylebone Road, London, England NW1 5PU, GB",+61 410 349,Traveltech,United Kingdom
+c42c12cc-ddb4-4418-99a1-eed9a5b67f01,Flash Pack,51,200,"Fora, 241 Southwark Bridge Road, London, London se1 6fp, GB",+44 20 3051 1057,Traveltech,United Kingdom
+baecf77f-a49d-45b4-9792-72b782ff9d3a,Seatfrog,101,250,"Work.Life, 4 Crown Place, Crown Place, London, England, EC2A 4BT",,Traveltech,United Kingdom
+1edf95b7-c973-4e7e-9467-feac1aa90ae3,Easol,11,50,"38-50 Pritchards Road, Easol Ltd , London, London, E29AP",07546899487,Traveltech,United Kingdom
+14c097eb-8022-49cb-9d58-4993ef92a477,Connexin,51,200,"Unit 4B, Earl's Court, Henry Boot Way, Hull, East Yorkshire HU4 7DY, GB",+ 44 1482 363738,Traveltech,United Kingdom
+3f1be9fd-9b85-4ec2-9160-2a7c76eb8d9e,Secret Escapes,501,1000,"Our HQ is 120 Holborn, London, EC1N 2TD, GB",0207 887 2772,Traveltech,United Kingdom
+73f3a1cc-833b-4d5e-a8cb-2f233ab914db,Daytrip,11,50,"3 Gower Street, London, England WC1E 6, GB",+44 20 3318 1119,Traveltech,United Kingdom
+565f269b-c2fe-4ff0-b469-40648e71a3f6,Fly Now Pay Later,51,200,"33 Cannon Street, London, EC4M 5SB, GB",+44 2033222996,Traveltech,United Kingdom
+1cc5bade-9f24-49ea-a275-8abf2ce6a551,CellPoint Digital,51,250,"UK 25 Wilton Rd, Room 3.09, Pimlico, London SW1V 1LW, GB",353 8709 73,Traveltech,United Kingdom
+1e7d2261-983a-466a-8663-e0aa6ba9f28f,Advanced Commerce,11,50,"20 North Audley Street, London, W1K 6LX, England, United Kingdom",44 (0)20 3884 0002,Retailtech,United Kingdom
+440f3be1-b43a-4da9-afa2-eab90c52440f,Aero Commerce,11,50,"Commerce House, Exchange Square Middlesbrough TS1 1DE England, United Kingdom",+44 01642 000000,Retailtech,United Kingdom
+26a99db1-749f-4acf-827e-08e7003e3e7b,Amplience,11,50,"10 Southampton St, Greater London, England, United Kingdom",+44 020 0000 0000,Retailtech,United Kingdom
+80df694b-d5b5-435d-97c3-cff8c31d11dc,Airbox Fulfilment,50,100,"8 Saxon Way, West Drayton UB7 0, England, United Kingdom",+44 01642 000000,Retailtech,United Kingdom
+287fb376-5375-4e60-a62e-2e30cdfb028b,Bright pearl,51,250,"Prologue Works 25 Marsh Street Bristol BS1 4AX England, United Kingdom",,Retailtech,United Kingdom
+507788fd-a072-42b9-b64b-7ed59eb195e5,Avasam,11,50,"Oliver Business Park, London, England NW10 7, GB",44 (0) 330 113 7788,Retailtech,United Kingdom
+71221777-981e-40ce-aff5-c1a1ec38fdcf,Cinch,251,500,"Cinch Cars Limited Form 2, 18 Bartley Wood Business Park, Bartley Way, Hook, Hampshire RG27 9XA",+44 333 015 4101,Retailtech,United Kingdom
+0db9c1ae-936c-423c-a7e6-29d997017e9f,Black swan data,101,250,"12th Floor, WeWork 10 York Road London SE1 7ND England, United Kingdom",,Retailtech,United Kingdom
+3c0ad64b-0033-4841-b47e-ecfbd4a2f513,Anthill,11,50,"111 West Illinois Street Suite 500 Chicago, IL 60654 United States",,Retailtech,United Kingdom
+86ab6d01-28df-417f-a44c-60c960ba4142,Delivroo,5001,10000,"London, England, United Kingdom",+44 203 699 9977,Retailtech,United Kingdom
+ad86bf19-417b-4894-8805-51538a4ee77d,Dee Set,1001,5000,"Dee Set Stoke-on-Trent The Distribution Centre, Victoria Road, Stoke on Trent, Staffordshire ST4 2HX, GB",+01782 266667,Retailtech,United Kingdom
+61854ef9-7999-4f7f-aa46-7e689eb3ad42,Dealerweb,11,50,"Exeter, Devon, United Kingdom",+44 (0)1392 247477,Retailtech,United Kingdom
+4b9620eb-32e9-4489-8a71-a9fc38fb1328,Divdo,51,100,"20 Appold Street, Appold Studios, London, England EC2A 2AS, GB",+44 20 3773 9510,Retailtech,United Kingdom
+dc367c58-7d96-412b-ac75-1e7f7d003232,Dishpatch,11,50,"London, England, United Kingdom",,Retailtech,United Kingdom
+c4fd34eb-0773-47fb-974b-9d2cf0ae1aa7,dexory,11,50,"London, England, United Kingdom",,Retailtech,United Kingdom
+ebe0d83d-f5d2-48c0-93ce-c617890b2ad7,Edgify,11,50,"London, England, United Kingdom",+44 203 488 3937,Retailtech,United Kingdom
+ba9e2887-f5dd-4e80-b7ec-73bf0c7e5956,Epos Now,501,1000,"Norwich, Norfolk, United Kingdom",0800 2 945 945,Retailtech,United Kingdom
+249239a1-fa0c-4974-ba5e-24ad35cf30e2,Envolve Technology,11,50,"San Francisco, California, United States",408-400-3656,Retailtech,United Kingdom
+1395b0b9-350c-4170-ad49-f0c6c6d5d47e,Enjovia,1,10,"Newport, Newport, United Kingdom",44-1633-509-878,Retailtech,United Kingdom
+b5ce13aa-b378-4a7f-b031-a11a158b88f0,Emperia,11,50,"London, England, United Kingdom",+44 2080377600,Retailtech,United Kingdom
+c1a609d7-980c-485d-b823-5d695d86f2d3,EKM,51,100,"Preston, Lancashire, United Kingdom",+44 333 004 0333,Retailtech,United Kingdom
+c112a2c1-122e-4bfa-8232-1d68457fdca6,Fruugo,11,50,"Ulverston, Cumbria, United Kingdom",358 8560 0799,Retailtech,United Kingdom
+77195df5-e5f5-476d-bef5-270601a014e4,freewebstore,11,50,"Burnley, England",,Retailtech,United Kingdom
+2b8cee0b-3438-4e6c-a1ab-c892b023a727,Flooid,501,1000,"Coventry, England",44-24766-94455,Retailtech,United Kingdom
+04184304-ae02-47a5-8583-55b5a6ec0ff3,Farfetch,5001,10000,"London, England, United Kingdom",,Retailtech,United Kingdom
+40f23ca4-bce0-4559-8edf-890a38cd8f93,Evoke Creative,11,50,"Bromborough, Wirral, United Kingdom",0151 334 3716,Retailtech,United Kingdom
+3f84a90e-6390-4388-b0e4-d52870c56309,Intelistyle,11,50,"Kemp House, 160 City Road, London, Greater London EC1V 2NX, GB",,Retailtech,United Kingdom
+6c2a2bce-f9ae-4820-af18-6b72d10d5ab5,Hyperfinity,11,50,"Leeds, West Yorkshire GB",+44 0330 133 1942,Retailtech,United Kingdom
+398f9cac-912e-4bd3-bbcd-fea843f320c7,Hullabalook,11,50,"Capital Tower, Waterloo Road, London, England SE1 8RT, GB",,Retailtech,United Kingdom
+cd40bbc9-281b-4149-ad08-bc51ec5d4a26,Wolf & Badger,51,200,"Kings Cross, London",+44(0)20 7229 4848,Retailtech,United Kingdom
+3ce8347b-9c0e-4b2c-baa7-44b204a1a2ea,Veeqo,51,200,"Swansea, Swansea",(+44) 203 808 9165,Retailtech,United Kingdom
+217110c9-1f22-4c5f-9f8b-bb1545f9b548,Unmade,11,50,"Ink Rooms, 28 Easton St, Farringdon, London, WC1X 0DS, GB",+442037017639,Retailtech,United Kingdom
+fa116292-89a7-4ab1-9693-d1540305282d,Huboo,501,1000,"Bristol, England",+44 330 808 0909,Retailtech,United Kingdom
+43416b1f-0b2a-4883-bb18-6810e7097fed,Gnatta,11,50,"Manchester, Manchester, United Kingdom",0330 0885 621,Retailtech,United Kingdom
+908e89a2-5225-4271-9664-a3d23939afe9,Merlinsoft,11,50,"INNOVATION WAY, BARNSLEY,",+44 1226 294413,Retailtech,United Kingdom
+f2e46213-dd54-40a7-8dca-2ee234406897,Luxury Promise,51,100,"28 Cavendish Square, London.UK",+442081441763,Retailtech,United Kingdom
+91bfb496-849f-4444-a41f-98688cbd2e68,IRP Commerce,11,50,"Concourse I, Catalyst, Belfast , Antrim BT3 9DT, GB",02890 780869,Retailtech,United Kingdom
+e6b002ca-a141-4691-a680-9af80dcdf262,lyst,101,250,"City of London, Greater London",,Retailtech,United Kingdom
+6b6be75d-d8fa-4451-8511-bd76766be5e7,Ice Lolly,11,50,"1st Floor, Park Row House, Park Row, Leeds, LS1 5JF, GB",+44 1274 413 077,Retailtech,United Kingdom
+ed8ccdbf-d249-4f14-a7ef-5a869ad5ee9d,Hurr,51,200,"London, UK GB",,Retailtech,United Kingdom
+91fbd0ab-33a0-4abe-b14e-ef65bb23f4ed,NearSt,11,50,"London, England, United Kingdom",020 3870 3617,Retailtech,United Kingdom
+599c0b65-f3c8-462c-ad9e-42829bd0751a,Metail,11,50,"50 St Andrew's Street Cambridge, Cambridgeshire, United Kingdom",+44 203 289 0028,Retailtech,United Kingdom
+404b9a89-237b-44f4-952a-41b54f24adc2,fulfilmentcrowd,51,200,"Chorley, Lancashire",01772455052,Retailtech,United Kingdom
+e7a8620f-0999-4f5c-ae5a-2e967228ec35,Achilles Therapeutics,201,500,"Hammersmith, England",+44 (0)1438 906 906,Healthtech,United Kingdom
+8eef63c3-ad4d-4dcd-a60f-67fc1f684239,accuRx,51,200,"Liverpool Street, London",020 7099 2279,Healthtech,United Kingdom
+6f90d919-19bd-474d-9fe6-a6cb1bb98143,Cera Care,5001,10000,"London, England, United Kingdom",+44 0330 433 1537,Healthtech,United Kingdom
+6a1a9b40-a93d-48a5-8d49-45ec8c4586c9,Caeli Nova,11,50,"London, England",,Healthtech,United Kingdom
+7c1a4be7-24de-451f-8917-3e60f43b12ad,Babylon Health,1001,5000,"London, England, United Kingdom",+44 330-223-1008,Healthtech,United Kingdom
+79ebac9d-b9f3-4fe5-94ef-4e8587c40c7d,Conversity,11,50,"48 Charlotte Street, London, England W1T 2NS, GB",+44 0 203 515 0312,E-Commerce,United Kingdom
+f287fdf3-47e5-44f5-b00d-dac9b17d2bd3,Ometria,51,200,"Acre House, 11/15 William Road, London, England, NW1 3ER",+44 (0)207 053 8383,E-Commerce,United Kingdom
+ed2e753a-c9d7-49cb-ae54-8bf7ed3369df,Dynamic Yield,501,1000,"1 Angel Lane, London, England EC4R 3AB, GB",+ 9142492000,E-Commerce,United Kingdom
+3889ea45-8c15-4258-a056-98712cc9dc47,Popp AI,2,10,"London, England, United Kingdom.",,Human Capital Management (HCM),United Kingdom
+761b587b-29e5-4a2e-a241-51a9db728f61,EasyVirtualFair,11,50,"230 S Broad St. , 1732, Philadelphia, PA 19102, US",+1 (215) 309 - 1941,Human Capital Management (HCM),United Kingdom
+5cc03d3d-aa0e-471b-baa5-dd55b620fcd8,Treegarden,11,50,"16E Railway Approach, East Grinstead, RH19 1BP",+44 7871 393 506,Human Capital Management (HCM),United Kingdom
+782fa187-e23e-4637-9637-73793bfd4927,The Green Recruitment Company,11,50,"London, England, United Kingdom",+44-0-203-640-2130,Human Capital Management (HCM),United Kingdom
+5b9b9ffe-54c7-4adf-b1ec-332321c0a47b,Jubilee Recruitment,51,100,"Jubilee Recruitment, Jubilee House, East Beach , Lytham, Lancashire FY8 5FT, GB",0121 236 4993,Human Capital Management (HCM),United Kingdom
+be494f6d-a734-4a92-91e4-59c0f0afaef0,Autometry,11,50,"London, GB",0203 026 7400,Human Capital Management (HCM),United Kingdom
+743f37f1-8a42-4855-a9e8-d87c4819dec0,Zoovu,101,250,"Boston, Massachusetts, United States",+1 888-414-8764,E-Commerce,United Kingdom
+f6637df0-46d0-430d-b08e-a1f2ecb80931,Excentos,11,50,"Reiterweg 1, Potsdam, Brandenburg 14469, DE",004933173076810,E-Commerce,United Kingdom
+38db1b63-4cd0-4982-996d-9284dab0b982,15gifts,51,200,"Century House, 15-19 Dyke Road, Brighton & Hove, Sussex BN1 3FE, GB",07039525,E-Commerce,United Kingdom
+bf6b2553-8cc0-4121-b967-7bb7411bf01f,LivePerson,500,1000,"New York, NY /        London EC1V 7LQ, GB",212 609 4200,E-Commerce,United Kingdom
+cece2a17-d72a-47c3-aa19-42b7ed14a93b,Kaggle,11,50,"188 King Street #502, San Francisco, California 94107, US",,Business Intelligence and Analytics,United Kingdom
+f26aa561-aeb6-44ab-b1f7-723125858575,Microshare,11,50,"WeWork, 5 Merchant Square, WeWork, 5 Merchant Square, London, London W2 1AY, GB",(267) 225-4841,Business Intelligence and Analytics,United Kingdom
+b0821f33-7941-4295-adb2-dc4454eb8eb0,Coveo,501,1000,"Quebec, Quebec, Canada",(418) 263-1111,Business Intelligence and Analytics,United Kingdom
+844270c4-2b8e-44c1-9c49-5405e44e720c,Data.World,51,200,"7000 N Mopac Expy, Austin, Texas US",5126974897,Business Intelligence and Analytics,United Kingdom
+4e291f7b-d11b-469a-b0b6-80c67fb46193,CastorDoc,51,200,"487 Keap St, Brooklyn, New York 11211, US",,Business Intelligence and Analytics,United Kingdom
+8db5727c-5252-46f9-ac0c-a4a09fbb7159,salessourcers,10,50,"Headquarters London, GB",+44 20 8638 0981,Sales and Marketing,United Kingdom
+f65b0826-937b-4c08-b25c-c01875ee99a0,"SalesSource, LLC",2,10,"2706 Sea View Pkwy, Alameda, California 94502, US",,Sales and Marketing,United Kingdom
+3fc874b0-22ea-4123-85ee-7e21c0108947,Sales Source,1,10,"San Francisco Bay Area, West Coast, California, United States",,Sales and Marketing,United Kingdom
+2adcd5e7-adfb-4038-b818-d9466879261c,PeopleHR,101,250,"Epworth, Iowa, United States",+44 01427 872110,Human Capital Management (HCM),United Kingdom
+c468162e-40a6-4b5e-af00-d64400be6377,Breathe,51,100,"Unit 7 Foundry Court, Horsham, West Sussex RH13 5PY, GB",+44 (0)1403 288700,Human Capital Management (HCM),United Kingdom
+cc9ce47f-56a2-468f-962f-3f9df74ae62a,SenseHR,11,50,"Mumbai, IN",,Human Capital Management (HCM),United Kingdom
+b6f112fc-7096-4823-89c9-fc1e06985c33,Sage HR,11,50,"Newcastle Upon Tyne, Newcastle upon Tyne, United Kingdom",0191 479 5988,Human Capital Management (HCM),United Kingdom
+343d24ad-b449-4d1e-8a36-f69f963fe219,Nichelabs,11,50,"Greater Atlanta Area, East Coast, Southern US",888-978-9254,Sales and Marketing,United Kingdom
+c5c51757-b313-447f-bd17-b540ec41611d,VNG Digital Marketing Group,11,50,"Athens, Attiki, Greece",+30 210 765 81 82,Sales and Marketing,United Kingdom
+9e8b4fa9-fde6-4b00-8038-a65261020a22,Q-Online,1,10,"London, England, United Kingdom",0208 684 2933,Sales and Marketing,United Kingdom
+1d4ea74d-8fc7-4ae2-8874-f0bcec98c814,Escalate Digital Marketing,1,10,"Dublin, Dublin, Ireland",+353 1524 0052,Sales and Marketing,United Kingdom
+3eadd783-6f35-41d9-b557-3929a58af587,Zeo,50,100,"London, England, United Kingdom",+44 20 3893 3078,Sales and Marketing,United Kingdom
+e00aa6b0-6095-4fc4-b76e-763e3966c76b,Digital Logic,11,51,"Shreveport, Louisiana, United States",(318) 678-5020,Sales and Marketing,United Kingdom
+2dd06a8f-a8a5-4540-84e8-b93c1e2609ec,Spotify Technology S.A.,6000,6600,Spotify AB Regeringsgatan 19 SE-111 53 Stockholm Sweden Reg no: 556703-7485 office@spotify.com,,Social Media Management,United Kingdom
+f795dceb-bbdb-476a-9a69-b786c149e1af,Spotify Technology S.A.,6000,10000,Spotify AB Regeringsgatan 19 SE-111 53 Stockholm Sweden Reg no: 556703-7485 office@spotify.com,,Social Media Management,United States of America (the)
